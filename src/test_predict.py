@@ -1,5 +1,4 @@
-from ultralytics import settings
-from ultralytics import YOLO
+from ultralytics import YOLO, settings
 
 # View all settings
 print(settings)
